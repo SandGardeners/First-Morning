@@ -1,6 +1,8 @@
-![screenshot](sg.png)
+[![sand gardeners banner](sg.png)](https://sandgardeners.itch.io/)
 
-# First morning - Brownie Cove Hotel v.1.1
+# [First morning - Brownie Cove Hotel v.1.1](https://sandgardeners.itch.io/first-morning-in-your-new-room)
+
+[![game's screenshot](fm.png)](https://sandgardeners.itch.io/first-morning-in-your-new-room)
 
 At Sand Gardeners, our projects are mostly powered by free and/or open source initiatives, including but not limited to [Inkle's Ink](https://github.com/inkle/ink), [Twine](https://github.com/tweecode/twine), [Bitsy](https://github.com/le-doux/bitsy). Likewise, the content we produce is deeply inspired by other artists who came before us, and coexist with us as well. 
   
