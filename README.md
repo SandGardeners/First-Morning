@@ -1,6 +1,6 @@
 [![sand gardeners banner](sg.png)](https://sandgardeners.itch.io/)
 
-# [First morning - Brownie Cove Hotel v.1.1](https://sandgardeners.itch.io/first-morning-in-your-new-room)
+# [🌅First morning - Brownie Cove Hotel v.1.1🌅](https://sandgardeners.itch.io/first-morning-in-your-new-room)
 
 [![game's screenshot](fm.png)](https://sandgardeners.itch.io/first-morning-in-your-new-room)
 
